@@ -35,7 +35,7 @@ num.myForEach((son) => {
 });
 
 // Map metodi
-// Map metodi bu berilagn sharni bajarib yangi array hosil qiladi
+// Map metodi bu berilagn shartni bajarib yangi array hosil qiladi
 Array.prototype.myMap = function (callback) {
   let res = [];
   for (let i = 0; i < this.length; i++) {

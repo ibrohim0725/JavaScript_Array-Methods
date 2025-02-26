@@ -16,6 +16,8 @@ String.prototype.myCapitalize = function () {
   }
   console.log(res);
 };
+
+
 srt.myCapitalize(() => {});
 // // // Split metodi
 // Split metodi matinni berilgan ajratuvchi bilan ajratadi hamda uni massivga aylantiradi
